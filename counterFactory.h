@@ -1,0 +1,4 @@
+#ifndef COUNTERFACTOR_H_
+#define COUNTERFACTOR_H_
+
+#endif // COUNTERFACTOR_H_
